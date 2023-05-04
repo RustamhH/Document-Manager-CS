@@ -1,0 +1,60 @@
+C:\Users\RustamH\Downloads\Document Program\Document Program\bin\Debug\net6.0\Document Program.exe
+C:\Users\RustamH\Downloads\Document Program\Document Program\bin\Debug\net6.0\Document Program.deps.json
+C:\Users\RustamH\Downloads\Document Program\Document Program\bin\Debug\net6.0\Document Program.runtimeconfig.json
+C:\Users\RustamH\Downloads\Document Program\Document Program\bin\Debug\net6.0\Document Program.dll
+C:\Users\RustamH\Downloads\Document Program\Document Program\bin\Debug\net6.0\Document Program.pdb
+C:\Users\RustamH\Downloads\Document Program\Document Program\obj\Debug\net6.0\Document Program.csproj.AssemblyReference.cache
+C:\Users\RustamH\Downloads\Document Program\Document Program\obj\Debug\net6.0\Document Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RustamH\Downloads\Document Program\Document Program\obj\Debug\net6.0\Document Program.AssemblyInfoInputs.cache
+C:\Users\RustamH\Downloads\Document Program\Document Program\obj\Debug\net6.0\Document Program.AssemblyInfo.cs
+C:\Users\RustamH\Downloads\Document Program\Document Program\obj\Debug\net6.0\Document Program.csproj.CoreCompileInputs.cache
+C:\Users\RustamH\Downloads\Document Program\Document Program\obj\Debug\net6.0\Document Program.dll
+C:\Users\RustamH\Downloads\Document Program\Document Program\obj\Debug\net6.0\refint\Document Program.dll
+C:\Users\RustamH\Downloads\Document Program\Document Program\obj\Debug\net6.0\Document Program.pdb
+C:\Users\RustamH\Downloads\Document Program\Document Program\obj\Debug\net6.0\Document Program.genruntimeconfig.cache
+C:\Users\RustamH\Downloads\Document Program\Document Program\obj\Debug\net6.0\ref\Document Program.dll
+D:\c#\Document Program\Document Program\bin\Debug\net6.0\Document Program.exe
+D:\c#\Document Program\Document Program\bin\Debug\net6.0\Document Program.deps.json
+D:\c#\Document Program\Document Program\bin\Debug\net6.0\Document Program.runtimeconfig.json
+D:\c#\Document Program\Document Program\bin\Debug\net6.0\Document Program.dll
+D:\c#\Document Program\Document Program\bin\Debug\net6.0\Document Program.pdb
+D:\c#\Document Program\Document Program\obj\Debug\net6.0\Document Program.csproj.AssemblyReference.cache
+D:\c#\Document Program\Document Program\obj\Debug\net6.0\Document Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Document Program\Document Program\obj\Debug\net6.0\Document Program.AssemblyInfoInputs.cache
+D:\c#\Document Program\Document Program\obj\Debug\net6.0\Document Program.AssemblyInfo.cs
+D:\c#\Document Program\Document Program\obj\Debug\net6.0\Document Program.csproj.CoreCompileInputs.cache
+D:\c#\Document Program\Document Program\obj\Debug\net6.0\Document Program.dll
+D:\c#\Document Program\Document Program\obj\Debug\net6.0\refint\Document Program.dll
+D:\c#\Document Program\Document Program\obj\Debug\net6.0\Document Program.pdb
+D:\c#\Document Program\Document Program\obj\Debug\net6.0\Document Program.genruntimeconfig.cache
+D:\c#\Document Program\Document Program\obj\Debug\net6.0\ref\Document Program.dll
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\bin\Debug\net6.0\Document Program.exe
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\bin\Debug\net6.0\Document Program.deps.json
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\bin\Debug\net6.0\Document Program.runtimeconfig.json
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\bin\Debug\net6.0\Document Program.dll
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\bin\Debug\net6.0\Document Program.pdb
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.csproj.AssemblyReference.cache
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.AssemblyInfoInputs.cache
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.AssemblyInfo.cs
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.csproj.CoreCompileInputs.cache
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.dll
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\refint\Document Program.dll
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.pdb
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.genruntimeconfig.cache
+C:\Users\Hesen_zc39\Downloads\Document-Manager-CS-master\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\ref\Document Program.dll
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\bin\Debug\net6.0\Document Program.exe
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\bin\Debug\net6.0\Document Program.deps.json
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\bin\Debug\net6.0\Document Program.runtimeconfig.json
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\bin\Debug\net6.0\Document Program.dll
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\bin\Debug\net6.0\Document Program.pdb
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.csproj.AssemblyReference.cache
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.AssemblyInfoInputs.cache
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.AssemblyInfo.cs
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.csproj.CoreCompileInputs.cache
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.dll
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\refint\Document Program.dll
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.pdb
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\Document Program.genruntimeconfig.cache
+C:\Users\RustamH\Downloads\Document-Manager-CS-main\Document-Manager-CS-main\Document-Manager-CS-master\Document Program\obj\Debug\net6.0\ref\Document Program.dll
